@@ -36,6 +36,7 @@
 #include <cstring>
 #include <SPI.h>
 #include <Time.h>								// http://playground.arduino.cc/code/time
+#include <TimeLib.h>
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include <WiFiUdp.h>
